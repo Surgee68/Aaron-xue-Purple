@@ -6,11 +6,11 @@ public class Player : MonoBehaviour
 {
     public string playerName;
     private ulong highestPop;
-        private GameplayManager  gameManager;
+    private GameplayManager  gameManager;
 
-        public TMP_Text nameText;
-        public TMP_Text yearText;
-        public TMP_Text highestPopText;
+    public TMP_Text nameText;
+    public TMP_Text yearText;
+    public TMP_Text highestPopText;
 
     // Start is called before the first frame update
     //zhipu 
